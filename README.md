@@ -36,5 +36,27 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## References:
+#### Function of count in python
+##### https://www.programiz.com/python-programming/methods/string/count
+#### Python List count() Method
+##### https://www.w3schools.com/python/ref_list_count.asp
+##### https://www.askpython.com/python
+#### How to Roll a Dice Using Python
+##### https://www.instructables.com/How-to-Roll-a-Dice-Using-Python/
+##### https://readthedocs.org/projects/diceroll/downloads/pdf/latest/
+#### Simulating the flip of a coin using python
+##### https://dev.to/gsbansal10/simulating-the-flip-of-a-coin-using-python-1471
+##### https://towardsdatascience.com/how-to-code-a-fair-coin-flip-in-python-d54312f33da9
+
+#### Random Generator
+##### https://numpy.org/doc/stable/reference/random/generator.html
+#### Simpson's paradox
+##### https://en.wikipedia.org/wiki/Simpson%27s_paradox#:~:text=Simpson's%20paradox%2C%20which%20also%20goes,when%20these%20groups%20are%20combined.
+#### Will Koehrsen, 2018, Simpson's Paradox: How to Prove Opposite Arguments with the Same Data, Towards Data Science
+##### https://towardsdatascience.com/simpsons-paradox-how-to-prove-two-opposite-arguments-using-one-dataset-1c9c917f5ff9
+
+###### By Thierno Aziz Diallo G00265250
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
